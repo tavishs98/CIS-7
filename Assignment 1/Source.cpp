@@ -1,3 +1,6 @@
+// CIS-7 Assignment 1 (64-bit)
+// Tavish Song
+
 #include <iostream>
 #include <string>
 
