@@ -1,9 +1,9 @@
-##Part 1:
+Part 1:
 ```
 1. If mathematics is easy, then the homework is done, and if it is sunny, then camping is fun.
 2. (S ^ H) -> (M v C)
 ```
-##Part 2:
+Part 2:
 ```
 1. A B |   ( B' -> A' ) -> ( ( B' -> A ) -> B )   
    ----------------------------------------------
@@ -23,7 +23,7 @@
    
    neither
 ```   
-##Part 3:
+Part 3:
 ```
 1. (p ^ q) -> r           p -> (q -> r)
    (p ^ q)' v r           p' v (q' v r)  (Implication x3)
@@ -37,7 +37,7 @@
    
    (q' v p) ^ (r' v p) <=>   (q' v p) ^ (r' v p) (Distributive)
 ```   
-##Part 4:
+Part 4:
 ```
 1. Some cities are loved by all travelers but no person who lives there.
 2. ∀x∀y((Traveler (x) ∧ City(y) ∧ Live(x,y)) -> ¬Love(x,y))
