@@ -1,9 +1,10 @@
-###Part 1:
-'''
+##Part 1:
+```
 1. If mathematics is easy, then the homework is done, and if it is sunny, then camping is fun.
 2. (S ^ H) -> (M v C)
-
-Part 2:
+```
+##Part 2:
+```
 1. A B |   ( B' -> A' ) -> ( ( B' -> A ) -> B )   
    ----------------------------------------------
    T T |                 T
@@ -21,8 +22,9 @@ Part 2:
    F F |                F
    
    neither
-   
-Part 3:
+```   
+##Part 3:
+```
 1. (p ^ q) -> r           p -> (q -> r)
    (p ^ q)' v r           p' v (q' v r)  (Implication x3)
    (p' v q') v r          p' v (q' v r)  (De Morgan)
@@ -34,8 +36,9 @@ Part 3:
    (q' ^ r') v p          (q' v p) ^ (r' v p) (De Morgan)
    
    (q' v p) ^ (r' v p) <=>   (q' v p) ^ (r' v p) (Distributive)
-   
-Part 4:
+```   
+##Part 4:
+```
 1. Some cities are loved by all travelers but no person who lives there.
 2. ∀x∀y((Traveler (x) ∧ City(y) ∧ Live(x,y)) -> ¬Love(x,y))
 
@@ -64,7 +67,7 @@ A: 1. ¬(r v s)  Premise
    6. ¬(¬p)     Modus Tollens, 5,2
    7. p         Double negation, 6
    8. q         Modus Ponens, 7,3
+```
 
-'''
    
 							
