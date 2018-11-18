@@ -1,4 +1,5 @@
-Part 1:
+###Part 1:
+'''
 1. If mathematics is easy, then the homework is done, and if it is sunny, then camping is fun.
 2. (S ^ H) -> (M v C)
 
@@ -64,6 +65,6 @@ A: 1. ¬(r v s)  Premise
    7. p         Double negation, 6
    8. q         Modus Ponens, 7,3
 
-
+'''
    
 							
